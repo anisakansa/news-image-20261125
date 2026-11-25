@@ -1,0 +1,1 @@
+{"description":"Sum up 25 November's world news in one image — a one-day newspaper front page drawn by a program.","license":"MIT","name":"news-image-20261125","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
